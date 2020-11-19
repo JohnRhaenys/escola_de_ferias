@@ -1,1 +1,1 @@
-# escola_de_ferias
+Aulas de Python + Orientação a Objetos - Projeto desenvolvido para a Escola de Férias da PUC-MG
