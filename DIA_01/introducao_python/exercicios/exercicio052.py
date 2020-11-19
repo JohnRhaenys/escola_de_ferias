@@ -1,0 +1,17 @@
+"""
+EXERCÍCIO 052: Números Primos
+
+Faça um programa que leia um número inteiro e diga se ele é ou não um número primo.
+"""
+
+
+
+
+
+
+def main():
+    pass
+
+
+if __name__ == '__main__':
+    main()
